@@ -1,0 +1,42 @@
+body{
+    background-color: #f3d9cc;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid black;
+    padding: 20px;
+ 
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    border: 2.7px solid black;
+}
+
+
+hr{
+    height: 1px;
+    background-color: black;
+    border: none;
+}
+
+#about{
+    text-decoration: none;
+}
+
+
+#linked{
+    text-decoration: none;
+}
+
+#Github{
+    text-decoration: none;
+}
+
+
+#about:hover{
+    background-color: rgb(223, 216, 185);
+    box-shadow: #f3d9cc;
+}
+
